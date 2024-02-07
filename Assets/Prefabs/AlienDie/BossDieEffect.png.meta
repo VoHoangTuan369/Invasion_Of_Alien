@@ -1,0 +1,928 @@
+fileFormatVersion: 2
+guid: 85dd4768b9499ec45b15ea3422c13119
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossDieEffect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c012d34d80db5d64880fcbc956d1b1f2
+      internalID: 1710213369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1920
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88426febbcb0bac4c9cbb8775d4eaa07
+      internalID: -1144037814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1920
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc7a02f94f5b6e48af34a759bfccc58
+      internalID: -1040871722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1920
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5f841c263a0dd4d85bc3acb96a5df9
+      internalID: -968634562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1920
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc67b06fdcf2d27478159f1d25fbc357
+      internalID: -1754998485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1920
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29193217e01202544803951d53b55ae7
+      internalID: -659495067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e271d3fc6c1e961438ac9402b24ca678
+      internalID: -91490532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1536
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b538773e869644f915b6746c38f359
+      internalID: -241440455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1536
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10b711ef6893784ea13a3aa6c8571bc
+      internalID: -1392915530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1536
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9911c4fce922240b12ded2dcee1c6e
+      internalID: 91186231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_10
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1536
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46682dd16cf2b1549a8731fe1387b03e
+      internalID: 1354058646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_11
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1536
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c019cbbd763601441903eacdfa9f7c35
+      internalID: -1072819335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc5cade37a8058488a663c597034da6
+      internalID: -13842611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1152
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a4795c2ce92a14391bb28e55d9f7df
+      internalID: -114380227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1152
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152839d012f074d4e962d2bf1eb3462f
+      internalID: 1193463563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1152
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b31772136ce0fe4e9c20d5622af7ff6
+      internalID: 334527376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1152
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e0a20ade326ee4ea67e3123feb6b0f
+      internalID: -764290853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_17
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1152
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8ff9ea160cc184da12ed818b3a0b1c
+      internalID: 600408329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7f19c26d5b7474ba61aa9f494e9f36
+      internalID: 1743292535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 768
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d87ba1ebc9d07c4097cc213421fee0b
+      internalID: 1542665938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 768
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228d6d4c1a60c704bb142330cc1e2497
+      internalID: 441384152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 768
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184dc80e0315eb54d9a23076f9324f0c
+      internalID: -591676245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 768
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd86e0604492cd94ca23eca2f102f28b
+      internalID: 1186861380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_23
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 768
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9257782d4be011f4a8ba1d3a9c82b5c3
+      internalID: 921756722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0c20fd9c70937488ad50378a5596bf
+      internalID: -1631590784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f026708f8e724c91a110a4ebcc6b9
+      internalID: -149878957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 384
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3f6143e6a82a9469eab43bbbb4c4a4
+      internalID: -2022258448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 384
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fb40e540f64af4eb8fd5cf9522aaa3
+      internalID: 725544976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_28
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 384
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1a46cb086d1bd4bb6d3fa81e3aec2f
+      internalID: -728207936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_29
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 384
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b839d2cd06b8c5d4883bdcaa34aa6b8b
+      internalID: 822651116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b7d389181ba924a9bd858d393dfbdb
+      internalID: 1685418066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04008e6f60def144c80116f5ad95bb57
+      internalID: -440838976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9f0eb7f4f4da340a17dccd28dc26cf
+      internalID: -866221472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_33
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6b61ca1ccf34641ae7d459a0da78ae
+      internalID: -193916840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_34
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d4210e12f62c5479dd5855bcade3d2
+      internalID: -906342610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDieEffect_35
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 400.66666
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae54e7192d7e949478907ba0d0836318
+      internalID: 994482694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BossDieEffect_0: 1710213369
+      BossDieEffect_1: -1144037814
+      BossDieEffect_10: 1354058646
+      BossDieEffect_11: -1072819335
+      BossDieEffect_12: -13842611
+      BossDieEffect_13: -114380227
+      BossDieEffect_14: 1193463563
+      BossDieEffect_15: 334527376
+      BossDieEffect_16: -764290853
+      BossDieEffect_17: 600408329
+      BossDieEffect_18: 1743292535
+      BossDieEffect_19: 1542665938
+      BossDieEffect_2: -1040871722
+      BossDieEffect_20: 441384152
+      BossDieEffect_21: -591676245
+      BossDieEffect_22: 1186861380
+      BossDieEffect_23: 921756722
+      BossDieEffect_24: -1631590784
+      BossDieEffect_25: -149878957
+      BossDieEffect_26: -2022258448
+      BossDieEffect_27: 725544976
+      BossDieEffect_28: -728207936
+      BossDieEffect_29: 822651116
+      BossDieEffect_3: -968634562
+      BossDieEffect_30: 1685418066
+      BossDieEffect_31: -440838976
+      BossDieEffect_32: -866221472
+      BossDieEffect_33: -193916840
+      BossDieEffect_34: -906342610
+      BossDieEffect_35: 994482694
+      BossDieEffect_4: -1754998485
+      BossDieEffect_5: -659495067
+      BossDieEffect_6: -91490532
+      BossDieEffect_7: -241440455
+      BossDieEffect_8: -1392915530
+      BossDieEffect_9: 91186231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
